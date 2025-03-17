@@ -1,0 +1,38 @@
+ body { background-color: hsl(220, 100%, 98%);display: flex; flex-wrap: wrap; justify-content: center; align-items: center;}
+ 
+ .header { text-align: center; font-family:'Roboto'; position: relative;top: 200px; gap: 32px;}
+ .h1 { color: #000;
+
+    text-align: center;
+    font-family: 'Roboto';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;}
+ .h2 { color: #6B6B6B;
+
+text-align: center;
+font-family: Roboto;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;}
+  
+ .container {min-height: 800px; background-color:hsl(220, 100%, 98%) ; display: flex; justify-content: center; align-items:space-around ; flex-wrap: wrap; gap:32px ;flex-direction: row; align-content: center; position: relative; top: 200px;}
+
+h3 {font-family: 'Roboto'; font-size: 16px; font-style: 'bold';}
+p {font-family: 'Roboto'; font-size: 14px;}
+
+.box-1 { background-color: rgb(255, 255, 255); border-radius: 10px; box-shadow: 4px 4px 8px 0px rgba(0, 0, 0, 0.10); padding: 20px; height: 250px; width: 250px; text-align: center; align-content: center; font-family:'Roboto' ; gap: 24px;}
+.box-1:hover { background-color: rgb(240, 200, 254);}
+.i { background-color: rgb(240, 200, 254); border-radius: 50%; color: rgb(142, 30, 10); width: 60px; height: 60px; display: inline;}
+
+
+.box-2 { background-color: rgb(255, 255, 255); border-radius: 10px; box-shadow:4px 4px 8px 0px rgba(0, 0, 0, 0.10); padding: 20px; height: 250px; width: 250px; text-align: center; align-content: center; font-family: 'Roboto'; gap: 24px;}
+.box-2:hover { background-color: rgb(202, 219, 255);}
+
+.box-3 { background-color: rgb(255, 255, 255); border-radius: 10px; box-shadow: 4px 4px 8px 0px rgba(0, 0, 0, 0.10);  padding: 20px; height: 250px; width: 250px; text-align: center; align-content: center; font-family: 'Roboto'; gap: 24px;}
+.box-3:hover { background-color: rgb(255, 202, 202);}
+
+.box-4 { background-color: rgb(255, 255, 255); border-radius: 10px; box-shadow: 4px 4px 8px 0px rgba(0, 0, 0, 0.10); padding: 20px; height: 250px; width: 250px; text-align: center; align-content: center;font-family: 'Roboto'; gap: 24px;}
+.box-4:hover { background-color: rgb(180, 255, 175);}
